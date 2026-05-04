@@ -30,7 +30,7 @@
 
 ## 📂 Featured Projects
 
-### 🔐 User Authentication System
+### 🔐 Book Store Management
 
 * ASP.NET Core, JWT, Redis, Transaction
 * Xây dựng hệ thống đăng nhập, phân quyền
@@ -39,7 +39,7 @@
 
 ---
 
-### 🛒 Sales Management System
+### 🛒 Fast Food System
 
 * ASP.NET Core, Clean Architecture
 * Xây dựng RESTful API cho quản lý người dùng, thống kê
